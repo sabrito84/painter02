@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.peinture-delemer.fr	TRUE	/	FALSE	1999999999	_simplebo_tool_session	aXdCNTR6TDhhUE9hSzlJakZzUGI0OHJJUlBjM3owWWNDdFRIL0Y4aXpSaTdrdW1sd3ltdjh2QmwwcEtQNmsxVmxKWDdRdGNLY3RweHU1MEZ4N0VRS3VlZUUrb2g5cVJNZWEzakY4TUt1VEFTNW5VdXA3MWtGeGk2RHRwaXN5ZnZIaXZId3VOSVpCb1lQZ0MrR1JsY0R3PT0tLUI5NjlWa0RHbWYxdnBUSVREemZ0L3c9PQ%3D%3D--b0de3f4d7fd93220699f3421cbecbb751df49205
+www.peinture-delemer.fr	TRUE	/	FALSE	1999999999	SameSite	None
+

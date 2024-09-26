@@ -1,0 +1,1 @@
+var appVisitor=appVisitor||{};appVisitor.ElementMapAdvanced=function(t){function i(){return t.apply(this,arguments)}return utils.extend(i,t),$.extend(i.prototype,{init:function(){i.__super__.init.call(this,arguments)}}),i}(appVisitor.ElementMap);
